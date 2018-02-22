@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="material-components-web">
+    <archive path="/home/izaquiel/.IntelliJIdea2017.2/config/javascript/extLibs/http_unpkg.com_material-components-web@latest_dist_material-components-web.js" />
+  </library>
+  <library name="Python 2.7.9 (/usr/bin/python2.7) interpreter library" />
+</eclipse-userlibraries>
+
